@@ -1,7 +1,7 @@
 # 100 Days of Python
 
 [Day 3 - Treasure Island Game (Beginner)](https://github.com/artsaber117/100-Days-of-Python/blob/main/Day%203%20-%20Treasure%20Island%20Game)
-  - Control Flow, Logical Operators
+  - Control Flow, logical operators, flow design via draw.io 
   
 [Day 2 - Tip Calculator (Beginner)](https://github.com/artsaber117/100-Days-of-Python/blob/main/Day%202%20-%20Tip%20Calculator)
   - Data types, mathematical operations, F strings
